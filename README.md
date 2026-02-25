@@ -235,11 +235,36 @@ I design every system with: **stable API contracts · schema discipline · loggi
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔥 2,159
+**contributions in the last 12 months**
+
+</td>
+<td align="center" width="50%">
+
+### 📅 1,412
+**contributions in 2025**
+
+</td>
+</tr>
+</table>
+
+**Recent Activity Highlights:**
+
+| Repository | Focus | Activity |
+|---|---|---|
+| [`lifeAI`](https://github.com/simgss/lifeAI) | AI-powered productivity system | 298 commits |
+| [`BasuraOS`](https://github.com/simgss/BasuraOS) | Waste management spatial platform | 116 commits |
+| [`gssweb00`](https://github.com/simgss/gssweb00) | Geospatial Solutions web platform | 108 commits |
+| [`noa_website`](https://github.com/simgss/noa_website) | Client web application | 19 commits |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simgss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simgss&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simgss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&area_color=4FC3F7" width="98%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -254,7 +279,11 @@ I'm looking for **high-caliber engineering teams** that value deep systems think
 
 <p align="center">
   <a href="mailto:simcha@geospatialsolutions.co">
-    <img src="https://img.shields.io/badge/Let's_Talk-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
+    <img src="https://img.shields.io/badge/Let%27s_Talk-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://geospatialsolutions.co">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
