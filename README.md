@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://geospatialsolutions.co"><img src="https://img.shields.io/badge/geospatialsolutions.co-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/simgss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:simcha@geospatialsolutions.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Washington,_DC-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <a href="mailto:Simcha Levental<simcha@geospatialsolutions.co>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://w3w.co/season.launch.brass"><img src="https://img.shields.io/badge/Washington,_DC-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a>
 </p>
 
 <p align="center">
@@ -278,7 +278,7 @@ I'm looking for **high-caliber engineering teams** that value deep systems think
 `AI Infrastructure` · `Applied ML Products` · `Spatial Systems` · `High-Scale Backend Architecture` · `Routing & Logistics Engines` · `Data-Heavy Platforms`
 
 <p align="center">
-  <a href="mailto:simcha@geospatialsolutions.co">
+  <a href="mailto:Simcha Levental<simcha@geospatialsolutions.co>">
     <img src="https://img.shields.io/badge/Let%27s_Talk-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
   </a>
   &nbsp;&nbsp;
