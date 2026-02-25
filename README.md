@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Simcha+Levental" alt="Simcha Levental" />
 </h1>
 
-<h3 align="center">Full-Stack GeoAI Engineer Â· Spatial Systems Â· Applied AI Â· Builder</h3>
+<h3 align="center">Full-Stack GeoAI Engineer · Spatial Systems · Applied AI · Builder</h3>
 
 <p align="center">
   <a href="https://geospatialsolutions.co"><img src="https://img.shields.io/badge/geospatialsolutions.co-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -21,13 +21,13 @@
 
 I build **spatial intelligence systems** that move from raw geographic data to deployable, AI-powered products.
 
-My work lives at the intersection of **spatial databases**, **computer vision**, **async backend systems**, and **map-first product interfaces**. I am deeply curious about how physical reality becomes structured dataâ€”and how that data becomes decisions at scale.
+My work lives at the intersection of **spatial databases**, **computer vision**, **async backend systems**, and **map-first product interfaces**. I am deeply curious about how physical reality becomes structured data—and how that data becomes decisions at scale.
 
 > *I don't just analyze maps. I engineer systems that reason over geography.*
 
 ---
 
-## âš¡ Philosophy
+## ⚡ Philosophy
 
 ```
 I believe two things can be true at the same time:
@@ -42,22 +42,22 @@ I experiment aggressively. I measure ruthlessly. I ship systems that work in the
 
 ---
 
-## ðŸ—ï¸ What I Build
+## 🏗️ What I Build
 
-I design production systems where **geography is not a visualization layerâ€”it is the data model.**
+I design production systems where **geography is not a visualization layer—it is the data model.**
 
 ```
 Raw spatial data
-  â†’ Structured spatial contracts
-    â†’ AI inference
-      â†’ Operational decisions
-        â†’ Exportable, measurable outcomes
+  → Structured spatial contracts
+    → AI inference
+      → Operational decisions
+        → Exportable, measurable outcomes
 ```
 
 | Domain | What I Ship |
 |---|---|
 | **Spatial Databases** | Scalable PostGIS architectures with GiST indexing, CRS discipline, geometry contracts |
-| **GeoAI Pipelines** | End-to-end inference: imagery â†’ segmentation â†’ detection â†’ entity binding |
+| **GeoAI Pipelines** | End-to-end inference: imagery → segmentation → detection → entity binding |
 | **Async Backends** | FastAPI + workers + webhooks for non-blocking, event-driven orchestration |
 | **Map-First Products** | Interactive UX built on Mapbox GL & Leaflet with drill-down analytics |
 | **Automation** | n8n + scheduled pipelines + Power Automate for repeatable spatial workflows |
@@ -67,30 +67,30 @@ Raw spatial data
 
 ---
 
-## ðŸš€ Case Study: LeadZone
+## 🚀 Case Study: LeadZone
 ### GeoAI Lead Intelligence Platform
 
-**`Imagery â†’ AI Detection â†’ Address-Level Prospect Lists`**
+**`Imagery → AI Detection → Address-Level Prospect Lists`**
 
 LeadZone transforms satellite imagery and building footprints into verified, export-ready, address-linked leads. The core engineering challenge: **turning pixels into business-ready entities.**
 
 <details>
-<summary><b>ðŸ“Š Performance Signals</b></summary>
+<summary><b>📊 Performance Signals</b></summary>
 <br>
 
 | Metric | Value |
 |---|---|
 | AOI coverage per job | Up to **0.5 sq mi** |
 | Geometries per run | **Thousands** of building-level classifications |
-| Solar detection confidence | **85â€“95%** |
-| Pool detection confidence | **90â€“95%** |
+| Solar detection confidence | **85–95%** |
+| Pool detection confidence | **90–95%** |
 | Spatial filtering (GiST) | **Sub-second** |
-| UX blocking | **Zero** â€” fully async inference |
+| UX blocking | **Zero** — fully async inference |
 
 </details>
 
 <details>
-<summary><b>ðŸ”§ Engineering Challenges Solved</b></summary>
+<summary><b>🔧 Engineering Challenges Solved</b></summary>
 <br>
 
 - Converting pixels into address-linked business entities
@@ -102,33 +102,33 @@ LeadZone transforms satellite imagery and building footprints into verified, exp
 </details>
 
 <details>
-<summary><b>ðŸ›ï¸ Architecture</b></summary>
+<summary><b>🏛️ Architecture</b></summary>
 <br>
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ FRONTEND â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  React + TypeScript Â· Mapbox GL      â”‚
-â”‚  AOI Drawing Â· Building Drill-Down   â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-               â”‚
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚           BACKEND (FastAPI)          â”‚
-â”‚  Async Endpoints Â· Job Workers       â”‚
-â”‚  PostGIS Spatial Core                â”‚
-â”‚  Webhook Orchestration               â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-               â”‚
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚             GeoAI LAYER              â”‚
-â”‚  SAM Segmentation Â· YOLO Detection   â”‚
-â”‚  Confidence Calibration              â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌────────────── FRONTEND ──────────────┐
+│  React + TypeScript · Mapbox GL      │
+│  AOI Drawing · Building Drill-Down   │
+└──────────────┬───────────────────────┘
+               │
+┌──────────────▼───────────────────────┐
+│           BACKEND (FastAPI)          │
+│  Async Endpoints · Job Workers       │
+│  PostGIS Spatial Core                │
+│  Webhook Orchestration               │
+└──────────────┬───────────────────────┘
+               │
+┌──────────────▼───────────────────────┐
+│             GeoAI LAYER              │
+│  SAM Segmentation · YOLO Detection   │
+│  Confidence Calibration              │
+└──────────────────────────────────────┘
 ```
 
 </details>
 
 <details>
-<summary><b>ðŸ” Example Flow â€” Solar Detection</b></summary>
+<summary><b>🔍 Example Flow — Solar Detection</b></summary>
 <br>
 
 ```
@@ -156,7 +156,7 @@ WHERE ST_Intersects(
 
 ---
 
-## ðŸ§  Experimentation Lab
+## 🧠 Experimentation Lab
 
 I treat engineering like structured play. I prototype fast, discard quickly, and keep what produces **measurable improvement.**
 
@@ -164,23 +164,23 @@ I treat engineering like structured play. I prototype fast, discard quickly, and
 
 | Experiment | Domain |
 |---|---|
-| AOI tiling strategies for inference scaling | ðŸ—ºï¸ Spatial |
-| PostGIS performance benchmarking under heavy geometry load | âš¡ Performance |
-| GeoParquet vs PostGIS tradeoff analysis | ðŸ“Š Data |
-| Async orchestration latency measurements | ðŸ”§ Backend |
-| Spatial clustering explainability tests | ðŸ¤– AI |
-| LLM-generated spatial summaries for executives | ðŸ¤– AI |
-| Map rendering stress tests under high feature density | ðŸ—ºï¸ Spatial |
-| Agentic GIS pipelines (n8n + LLM + PostGIS) | ðŸ¤– Automation |
-| Human-in-the-loop QA feedback loops for model validation | âœ… Quality |
+| AOI tiling strategies for inference scaling | 🗺️ Spatial |
+| PostGIS performance benchmarking under heavy geometry load | ⚡ Performance |
+| GeoParquet vs PostGIS tradeoff analysis | 📊 Data |
+| Async orchestration latency measurements | 🔧 Backend |
+| Spatial clustering explainability tests | 🤖 AI |
+| LLM-generated spatial summaries for executives | 🤖 AI |
+| Map rendering stress tests under high feature density | 🗺️ Spatial |
+| Agentic GIS pipelines (n8n + LLM + PostGIS) | 🤖 Automation |
+| Human-in-the-loop QA feedback loops for model validation | ✅ Quality |
 
-I design every system with: **stable API contracts Â· schema discipline Â· logging & audit trails Â· performance instrumentation Â· repeatable workflows Â· clear export formats.**
+I design every system with: **stable API contracts · schema discipline · logging & audit trails · performance instrumentation · repeatable workflows · clear export formats.**
 
 *Everything should be explainable. Everything should be reproducible.*
 
 ---
 
-## ðŸ› ï¸ Technical Stack
+## 🛠️ Technical Stack
 
 <table>
 <tr>
@@ -235,7 +235,7 @@ I design every system with: **stable API contracts Â· schema discipline Â· l
 
 ---
 
-## ðŸ“ˆ GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simgss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
@@ -244,13 +244,13 @@ I design every system with: **stable API contracts Â· schema discipline Â· l
 
 ---
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 I'm looking for **high-caliber engineering teams** that value deep systems thinking, measured experimentation, and real-world accountability.
 
 **If you're working on:**
 
-`AI Infrastructure` Â· `Applied ML Products` Â· `Spatial Systems` Â· `High-Scale Backend Architecture` Â· `Routing & Logistics Engines` Â· `Data-Heavy Platforms`
+`AI Infrastructure` · `Applied ML Products` · `Spatial Systems` · `High-Scale Backend Architecture` · `Routing & Logistics Engines` · `Data-Heavy Platforms`
 
 <p align="center">
   <a href="mailto:simcha@geospatialsolutions.co">
@@ -260,4 +260,4 @@ I'm looking for **high-caliber engineering teams** that value deep systems think
 
 ---
 
-<p align="center"><sub>âš¡ <i>"I experiment aggressively. I measure ruthlessly. I ship systems that work in the real world."</i></sub></p>
+<p align="center"><sub>⚡ <i>"I experiment aggressively. I measure ruthlessly. I ship systems that work in the real world."</i></sub></p>
