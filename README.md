@@ -21,9 +21,9 @@
 
 I build **spatial intelligence systems** that move from raw geographic data to deployable, AI-powered products.
 
-My work lives at the intersection of **spatial databases**, **computer vision**, **async backend systems**, and **map-first product interfaces**. I am deeply curious about how physical reality becomes structured data—and how that data becomes decisions at scale.
+My work involves **spatial databases**, **async backend systems**, and **map-first product interfaces**. I am curious about how physical reality becomes structured data and how that data becomes decisions at scale.
 
-> *I don't just analyze maps. I engineer systems that reason over geography.*
+> *I engineer systems that reason over geography and answer WHERE questions...*
 
 ---
 
@@ -34,6 +34,7 @@ I believe two things can be true at the same time:
 
   1. Engineering should be playful, curious, and experimental.
   2. Results are non-negotiable.
+  start with who is the audiance?
 ```
 
 I experiment aggressively. I measure ruthlessly. I ship systems that work in the real world.
