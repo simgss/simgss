@@ -156,6 +156,44 @@ WHERE ST_Intersects(
 
 ---
 
+## 🌟 Live Interactive Demos
+
+> *Experience spatial intelligence systems in action.*
+
+<details open>
+<summary><b>🛠️ AI Survey Generation</b></summary>
+<br>
+
+**[Survey Forge ↗](https://geospatialsolutions.co/field-data-collection/survey-forge)**
+An AI-powered tool designed to generate rigorous field mapping surveys compatible with all major platforms (like Esri's Survey123). Converts natural language requirements into deployable fielding schemas instantly.
+</details>
+
+<details open>
+<summary><b>🏙️ 3D Urban Viewshed Analysis</b></summary>
+<br>
+
+**[Sightline Studio: NYC ↗](https://geospatialsolutions.co/demos/sightline-studio)** &nbsp;·&nbsp; **[Sightline Studio: Seattle ↗](https://geospatialsolutions.co/demos/sightline-studio/seattle)**
+Interactive 3D environments engineered to calculate and visualize complex urban sightlines, spatial restrictions, and continuous line-of-sight metrics using high-resolution building footprint models.
+</details>
+
+<details open>
+<summary><b>🏡 GeoAI Property Intelligence</b></summary>
+<br>
+
+**[Million-Dollar-View ↗](https://geospatialsolutions.co/geoai/Million-Dollar-View)**
+A spatial inference engine that identifies, quantifies, and evaluates property view corridors—turning subjective real estate attributes into measurable coordinate data.
+</details>
+
+<details open>
+<summary><b>🌍 Automated Environmental Reporting</b></summary>
+<br>
+
+**[Soil Report Generator ↗](https://geospatialsolutions.co/demos/soil-report)**
+A streamlined pipeline that intersects custom areas-of-interest (AOIs) with deep geotechnical datasets to generate structured, actionable soil intelligence reports in real-time.
+</details>
+
+---
+
 ## 🧠 Experimentation Lab
 
 I treat engineering like structured play. I prototype fast, discard quickly, and keep what produces **measurable improvement.**
