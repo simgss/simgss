@@ -157,6 +157,7 @@ WHERE ST_Intersects(
 
 ---
 
+<a name="live-interactive-demos"></a>
 ## 🌟 Live Interactive Demos
 
 > *Experience spatial intelligence systems in action.*
@@ -317,11 +318,11 @@ I'm looking for **high-caliber engineering teams** that value deep systems think
 `AI Infrastructure` · `Applied ML Products` · `Spatial Systems` · `High-Scale Backend Architecture` · `Routing & Logistics Engines` · `Data-Heavy Platforms`
 
 <p align="center">
-  <a href="mailto:Simcha Levental<simcha@geospatialsolutions.co>">
+  <a href="mailto:simcha@geospatialsolutions.co">
     <img src="https://img.shields.io/badge/Let%27s_Talk-4FC3F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://geospatialsolutions.co">
+  <a href="#live-interactive-demos">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
